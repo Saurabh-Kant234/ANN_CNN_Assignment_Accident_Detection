@@ -1,0 +1,11 @@
+tensorflow-macos
+tensorflow-metal
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pillow
+scikit-learn
+ipykernel
+keras
